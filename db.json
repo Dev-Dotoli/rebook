@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "제목목",
+      "author": "typicode",
+      "publisher": "출판사"
+    },
+    {
+      "id": 2,
+      "title": "췍",
+      "author": "지은이",
+      "publisher": "출판사2"
+    },
+    {
+      "id": 3,
+      "title": "췍3",
+      "author": "지은이",
+      "publisher": "출판사2"
+    },
+    {
+      "id": 4,
+      "title": "췍4",
+      "author": "지은이",
+      "publisher": "출판사2"
+    },
+    {
+      "id": 5,
+      "title": "췍4",
+      "author": "지은이",
+      "publisher": "출판사2"
+    }
+  ],
+  "reivews": [
+    {
+      "id": 1,
+      "revew" : " "
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
